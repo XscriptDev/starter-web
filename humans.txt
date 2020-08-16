@@ -6,6 +6,7 @@
 oussama -- benamirouche -- oussamabenamirouche
 # THANKS
 thanks to allah aza wa jal
+allhamdu lillah
     <name>
 
 # TECHNOLOGY COLOPHON
